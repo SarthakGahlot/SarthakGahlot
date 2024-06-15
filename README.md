@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align=“right” alt=“web-developer” width=“400” src=“3d-rendering-kid-playing-digital-game_23-2150898496.jpg”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakgahlot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakgahlot" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, JAVA, React.js, Node.js**
